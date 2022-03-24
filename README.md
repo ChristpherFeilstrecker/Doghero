@@ -26,7 +26,7 @@
 [https://doghero-carver-case1.herokuapp.com/] 
 
 
-<h2 id="heroku"> Desenvolvedor 🤖 </h2>
+<h2 id="desenvolvedor"> Desenvolvedor 🤖 </h2>
 
 <table>
   <tr>
