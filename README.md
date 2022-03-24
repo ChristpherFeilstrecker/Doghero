@@ -23,7 +23,7 @@
 
 
 <h2 id="heroku"> Deploy (Heroku): </h2>
-[] 
+[https://doghero-carver-case1.herokuapp.com/] 
 
 <h2 id="heroku"> Desenvolvedore 🤖 </h2>
 

@@ -26,11 +26,11 @@ export class DogWalkerBusiness {
       start_time: String,
       end_time: String
    ) {
-      let codeStatus = 400
+      
       try {
          
          if (!date || !duration || !latitude || !longitude || !number_of_pet || !start_time || !end_time) {
-            codeStatus = 422
+            
             throw new CustomError(422, "Preencha todos os dados corretamente");
          }
 
@@ -82,7 +82,7 @@ export class DogWalkerBusiness {
       } catch (error) {
 
          if (error instanceof Error) {
-            throw new CustomError(codeStatus, error.message)
+            throw new CustomError(400, error.message)
          } else {
             throw new CustomError(400, "Erro ao cadastrar passeio")
          }

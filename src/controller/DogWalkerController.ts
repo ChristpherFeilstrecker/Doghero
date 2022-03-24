@@ -19,8 +19,8 @@ export class DogWalkerController {
          res.status(200).send(result);
       } catch (error) {
          
-         if (error instanceof CustomError) {
-            res.status(error.statusCode).send(error.message);
+         if (error instanceof Error) {
+            res.status(400).send(error.message);
         } else {
            res.send({ message: "Algo deu errado ao cadastrar passeio" })
         }
