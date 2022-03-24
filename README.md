@@ -110,11 +110,17 @@ Teste o código pelo postman seguindo a documentação <a href="#documentacao">A
 - Clone o código para seu computador.
 - Rode o comando npm instal (para instalar bibliotecas).
 - Cria um arquivo com nome .env (para acessar seu banco de dados).
+  
    Ex.: DB_USER = seu_usuario
+  
         DB_PASSWORD = sua_senha
+  
         DB_HOST = seu_host
+  
         DB_PORT = sua_posrt
+  
         DB_DATABASE_NAME = nome_database
+  
 - Rode o comando "npm run migrations" para criar a tabela.
 - Rode o comando "npm run test" para rodar os testes dos endpoints.
 - Rode o comando "npm run dev" ou "npm run start" para testar os endpoints
