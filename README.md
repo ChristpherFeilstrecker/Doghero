@@ -19,13 +19,14 @@
 
 <h2 id="documentacao"> Documentação API: </h2>
 
- ## Acesse o postman aqui 👉 [ <img src="https://i.pinimg.com/originals/c1/ea/7e/c1ea7efd4baf038c15ed7c02d280d603.gif" width="70" align="center"> ](https://documenter.getpostman.com/view/18385085/UVsPPjpR)
+ ## Acesse o postman aqui 👉 [ <img src="https://i.pinimg.com/originals/c1/ea/7e/c1ea7efd4baf038c15ed7c02d280d603.gif" width="70" align="center"> ](https://documenter.getpostman.com/view/18385085/UVsTr2vB)
 
 
 <h2 id="heroku"> Deploy (Heroku): </h2>
 [https://doghero-carver-case1.herokuapp.com/] 
 
-<h2 id="heroku"> Desenvolvedore 🤖 </h2>
+
+<h2 id="heroku"> Desenvolvedor 🤖 </h2>
 
 <table>
   <tr>
@@ -119,10 +120,4 @@ Teste o código pelo postman seguindo a documentação <a href="#documentacao">A
 - Rode o comando "npm run dev" ou "npm run start" para testar os endpoints
 - Utilise o arquivo request.rest para testar as funcionalidades.
 
-
-        
-
-
-<a href="#top">Voltar para o topo</a>
-
-   
+<a href="#top">Voltar para o topo</a> 
