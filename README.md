@@ -111,7 +111,9 @@ Teste o código pelo postman seguindo a documentação <a href="#documentacao">A
 - Rode o comando npm instal (para instalar bibliotecas).
 - Cria um arquivo com nome .env (para acessar seu banco de dados).
   
-   Ex.: DB_USER = seu_usuario
+   Ex.: 
+   
+        DB_USER = seu_usuario
   
         DB_PASSWORD = sua_senha
   
